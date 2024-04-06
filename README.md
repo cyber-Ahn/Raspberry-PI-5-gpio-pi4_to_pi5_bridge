@@ -13,4 +13,4 @@ git clone https://github.com/cyber-Ahn/Raspberry-PI-5-gpio-pi4_to_pi5_bridge.git
 
 cd Raspberry-PI-5-gpio-pi4_to_pi5_bridge
 
-bash install.sh
+sudo bash install.sh
