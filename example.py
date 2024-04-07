@@ -20,4 +20,4 @@ GPIO.setup(button, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 if GPIO.input(button) == GPIO.HIGH:
     print("Button was pushed!")
 else:
-	print("Button not pressed")
+    print("Button not pressed")
